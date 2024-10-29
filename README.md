@@ -81,3 +81,7 @@ Jika terjadi kesalahan saat mengambil atau menukarkan token, pesan error akan di
 
 - Short-Lived Access Token valid.
 - App ID dan App Secret yang Anda gunakan benar.
+
+# Lisensi
+
+- Proyek ini dilisensikan di bawah MIT License - lihat file **LICENSE** untuk lebih jelasnya.
