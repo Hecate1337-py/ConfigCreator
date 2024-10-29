@@ -16,7 +16,7 @@ pip install requests configparser
 ```
 
 # Cara Penggunaan
-1. short.py - Mendapatkan Short-Lived Access Token
+## 1. short.py - Mendapatkan Short-Lived Access Token
 Gunakan file short.py untuk mendapatkan short-lived access token dari Facebook Graph API Explorer.
 
 ## Langkah-langkah:
@@ -27,7 +27,7 @@ Gunakan file short.py untuk mendapatkan short-lived access token dari Facebook G
 
 - Salin token yang dihasilkan dan gunakan pada short.py jika diperlukan.
 
-2. long.py - Mendapatkan Long-Lived Access Token
+## 2. long.py - Mendapatkan Long-Lived Access Token
 File ini digunakan untuk menukar short-lived access token menjadi long-lived access token.
 
 ## Langkah-langkah:
